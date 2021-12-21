@@ -1,0 +1,21 @@
+h1{color: #092BD0;
+	font-family: 'Mountains of Christmas', cursive;
+	font-size: 80px;
+	text-align: center;
+	stroke: #092BD0;}
+h2{color: #092BD0;
+	font-family: 'Grandstander', cursive;
+	padding-bottom: 15px;
+	font-size: 40px;
+	text-align: center}
+p{font-family: 'Carter One', cursive;
+	border: 1px; solid: #ffffff;
+	font-size: 18px;
+	text-align: center}
+a {color: #38A062;
+	font-family: 'Grandstander', cursive;
+	font-size: 18px}
+body{background-color: #78EDFF;
+	margin: 50px}
+img{margin: -100 auto;
+	display: block}
