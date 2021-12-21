@@ -10,8 +10,6 @@ let present;
 
 var bg;
 
-h1.hide()
-
 function setup() {
   createCanvas(1600,790);
   bg = loadImage('https://i.imgur.com/C0dqPZP.png')
